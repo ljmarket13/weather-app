@@ -1,2 +1,2 @@
 # weather-app
-Simple Weather page 
+Simple Weather page made with nodeJS
